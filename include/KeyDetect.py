@@ -1,7 +1,7 @@
+#!/usr/bin/env python
 """
 Docs: https://pypi.python.org/pypi/keyboard
 """
-
 from curtsies import Input
 from include.Matrix import Matrix
 
